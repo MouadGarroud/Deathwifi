@@ -1,0 +1,4 @@
+subprocess
+pandas
+tabulate
+pygame
